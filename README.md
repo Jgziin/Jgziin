@@ -2,4 +2,3 @@
 
 - 🔭 Atualmente cursando Sistemas de Internet pela UEG (1° período)
 - 😄 Pronouns: Ele/Dele
--->
