@@ -74,12 +74,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Jgziin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
