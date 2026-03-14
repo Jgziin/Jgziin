@@ -29,7 +29,7 @@ Conclui o ensino médio no colégio Paes de Carvalho. Atualmente, estou cursando
             src="https://custom-icon-badges.demolab.com/github/stars/Jgziin?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Jgziin">
+    <a href=https://github.com/Jgziin?tab=followers>
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
