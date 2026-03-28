@@ -8,8 +8,6 @@ Conclui o ensino médio no colégio Paes de Carvalho. Atualmente, estou cursando
 
 
 
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 
 <br>
@@ -32,28 +30,45 @@ Conclui o ensino médio no colégio Paes de Carvalho. Atualmente, estou cursando
 </div>
 
 <br>
-
       
 <br>
 <br>
       
 <div align="center">
-  <img align="center" alt="Top Language" src="https://github.com/Jgziin"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jgziin&theme=zenburn"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
+ 
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
- 
+
   
 </div>
 
 <br>
 <br>
 
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
   
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
   </samp>
   <br>
   <br>
@@ -63,15 +78,4 @@ Conclui o ensino médio no colégio Paes de Carvalho. Atualmente, estou cursando
   
 </div>
 
-<br>
 
-</details>
-
-<br>
-
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
