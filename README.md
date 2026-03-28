@@ -53,8 +53,7 @@ Conclui o ensino médio no colégio Paes de Carvalho. Atualmente, estou cursando
 <br>
 <br>
 
-      Contact me:
-    </b>
+  
   </samp>
   <br>
   <br>
