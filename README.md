@@ -10,7 +10,8 @@ Conclui o ensino médio no colégio Paes de Carvalho. Atualmente, estou cursando
 
   <div align-"center">
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jgziin&theme=midnight_purple)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jgziin&theme=midnight_purple)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jgziin&theme=midnight_purple)|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jgziin&theme=midnight_purple)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jgziin&theme=midnight_purple&utcOffset=8)  |
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jgziin&theme=jolly)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jgziin&theme=jolly)
+   |![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jgziin&theme=jolly) |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jgziin&theme=jolly&utcOffset=8)  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jgziin&theme=jolly)
 
 
   <div align-"center">
