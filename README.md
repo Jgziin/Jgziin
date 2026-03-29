@@ -3,7 +3,7 @@ My name is Jorge Henrique Miranda do Carmo, I am 20 years old and I am from Bel√
 
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="500" src="https://imgur.com/LaVVSJh.png" />
 </div>
 
 <div align="center">
