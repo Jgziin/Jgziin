@@ -1,11 +1,9 @@
-
 My name is Jorge Henrique Miranda do Carmo, I am 20 years old and I am from Belém do Pará. I completed high school at Paes de Carvalho School. Currently, I am studying Internet Systems at UEG (1st Semester).
 
 
 <div align="center">
-  <img align="center" height="500" src="https://imgur.com/LaVVSJh.png" />
+  <img align="center" height="400" src="https://imgur.com/LaVVSJh.png" />
 </div>
-
 <div align="center">
   
   <b>`プ ロ グ ラ マ`</b>
