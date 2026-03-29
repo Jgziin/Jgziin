@@ -43,3 +43,49 @@ My name is Jorge Henrique Miranda do Carmo, I am 20 years old and I am from Bel√
 
 
   <div align="center" width="100%">
+
+
+  <div align="center" style="display: inline_block"><br>
+ 
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+
+  
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jorgehenrique.miranda20@gmail.com)
+ 
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jorge-henrique-17a4863b2/)
+  
+</div>
+
+<div align="center">
+  <p align="center">
+      <samp>
