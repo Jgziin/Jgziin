@@ -32,7 +32,7 @@ My name is Jorge Henrique Miranda do Carmo, I am 20 years old and I am from Bel√
 
 
 
-  <div align-"center">
+  <div align="center" width="100%">
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jgziin&theme=jolly) |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jgziin&theme=jolly)
    |![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jgziin&theme=jolly) |
@@ -44,4 +44,4 @@ My name is Jorge Henrique Miranda do Carmo, I am 20 years old and I am from Bel√
    | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jgziin&theme=jolly)
 
 
-  <div align-"center">
+  <div align="center" width="100%">
